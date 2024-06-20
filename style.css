@@ -575,6 +575,9 @@ a {
 .page-banner.dr-banner {
 	background-image: url("img/dr.jpeg");
 }
+.page-banner.res-banner {
+	background-image: url("img/about-1.jpeg");
+}
 .page-banner.contact-banner {
 	background-image: url("images/contact-banner.jpg");
 }
