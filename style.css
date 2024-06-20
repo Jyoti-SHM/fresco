@@ -569,8 +569,11 @@ a {
 .page-banner.gallery-banner.room-banner {
 	margin-bottom: 150px;
 }
-.page-banner.blog-banner {
-	background-image: url("images/blog-banner.jpg");
+.page-banner.sr-banner {
+	background-image: url("img/sr3.jpeg");
+}
+.page-banner.dr-banner {
+	background-image: url("img/dr.jpeg");
 }
 .page-banner.contact-banner {
 	background-image: url("images/contact-banner.jpg");
