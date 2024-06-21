@@ -397,7 +397,7 @@
 	font-family: 'Open Sans', serif;
 	font-size: 34px;
 	letter-spacing: 0.34px;
-	line-height: 26px;
+	line-height: 33px;
 	margin-top: 0;
 	margin-bottom: 15px;
 	word-wrap: break-word;
@@ -441,7 +441,7 @@
 	margin-top: 0;
 	margin-bottom: 0;
 	word-wrap: break-word;
-	padding-top: 10px;
+	/* padding-top: 10px; */
 }
 .welcome-section-1 .wc-max-content .wc-mission span {
 	color: #444;
@@ -588,6 +588,7 @@
 /* - Offer Section */
 .offer-section {
 	margin-bottom: 150px;
+	margin-top: 100px;
 }
 .offer-section .offer-box > i {
 	position: relative;
@@ -733,14 +734,14 @@
 
 /* - Counter Section */
 .counter-section {
-	background-image: url("../images/counter-bg.jpg");
+	/* background-image: url("../images/counter-bg.jpg"); */
 	background-repeat: no-repeat;
 	background-size: cover;
 	position: relative;
 	padding: 90px 0;
 }
 .counter-section::before {
-	background-color: rgba(41, 43, 44, 0.702);
+	/* background-color: rgba(41, 43, 44, 0.702); */
 	content: "";
 	left: 0;
 	right: 0;
@@ -753,11 +754,11 @@
 	text-align: center;
 }
 .counter-section .counter-box i {
-	color: #fff;
+	color:  #DD291C;
 	font-size: 35px;
 }
 .counter-section .counter-box h3 {
-	color: #fff;
+	color:  #DD291C;
 	font-weight: 600;
 	font-size: 42px;
 	letter-spacing: 2.1px;
@@ -766,7 +767,7 @@
 	margin-bottom: 20px;
 }
 .counter-section .counter-box p {
-	color: #fff;
+	color: #000;
 	font-size: 15px;
 	font-weight: 700;
 	letter-spacing: 0.6px;
