@@ -1136,7 +1136,7 @@
 
 /* - Callout */
 .callout {
-	background-image: url("../images/callout-bg.jpg");
+	background-image: url("../img/wedding/wedding.jpeg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	padding: 130px 0;
@@ -1146,6 +1146,7 @@
 	padding-top: 50px;
 	padding-bottom: 50px;
 	padding-left: 50px;
+	text-align: center;
 }
 .callout .call-out-content h3 {
 	color: #fff;
@@ -1163,6 +1164,7 @@
 	letter-spacing: 0.16px;
 	padding-right: 15px;
 	margin-bottom: 20px;
+	text-align: center;
 }
 .callout .call-out-content a {
 	border: 3px solid #DD291C;
@@ -2307,9 +2309,9 @@
 /* - min-width: 992 */
 @media (min-width: 992px) {
 	/* - Callout */
-	.callout .call-out-content p {
+	/* .callout .call-out-content p {
 		padding-right: 45%;
-	}
+	} */
 	/* - Event Section */
 	.event-section .event-box:nth-child(4n+1) {
 		clear: both;
